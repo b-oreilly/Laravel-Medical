@@ -8,7 +8,7 @@ Please check the official laravel installation guide for server requirements bef
 
 Clone the repository
 
-    git clone b-oreilly/Laravel-Medical
+    git clone https://github.com/b-oreilly/Laravel-Medical
 
 Switch to the repo folder
 
